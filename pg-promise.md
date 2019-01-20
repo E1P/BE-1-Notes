@@ -64,7 +64,7 @@ Students should:
 
 # Testing
 
-- If we were a company serving up a data api we need to make sure we're serving up the write data on each endpoint
+- If we were a company serving up a data api we need to make sure we're serving up the correct data on each endpoint
 
 - For this we're going to use a package called `supertest` which is going to allow us to mock calls to our server and test the results we get back...
 
